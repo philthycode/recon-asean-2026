@@ -513,9 +513,10 @@ p + p { margin-top: .9em; }
 .hero__subtitle {
   font-family: var(--f-display);
   font-size: clamp(1.05rem, 2.2vw, 1.45rem);
-  color: #FF9489;
+  color: #F25043;
   font-style: normal;
   font-weight: 700;
+  letter-spacing: .04em;
   margin-bottom: 1.75rem;
 }
 
