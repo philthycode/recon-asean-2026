@@ -508,11 +508,13 @@ p + p { margin-top: .9em; }
   margin-bottom: .85rem;
 }
 
+.hero__title span { color: var(--c-gold); }
+
 .hero__subtitle {
   font-family: var(--f-display);
   font-size: clamp(1.05rem, 2.2vw, 1.45rem);
-  color: var(--c-red);
-  font-style: italic;
+  color: #FF9489;
+  font-style: normal;
   font-weight: 700;
   margin-bottom: 1.75rem;
 }
