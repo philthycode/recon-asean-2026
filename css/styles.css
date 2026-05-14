@@ -6,14 +6,14 @@
 
 /* ─── 1. Custom Properties ────────────────────────────────── */
 :root {
-  --c-navy:         #1B2F6E;
-  --c-navy-dark:    #0F1C42;
-  --c-navy-mid:     #243F8A;
-  --c-navy-light:   #2E509A;
-  --c-red:          #E8392A;
-  --c-red-dark:     #C42D20;
-  --c-gold:         #F9C42A;
-  --c-gold-dark:    #D4A520;
+  --c-navy:         #1b1464;
+  --c-navy-dark:    #0e0d38;
+  --c-navy-mid:     #0039a6;
+  --c-navy-light:   #1a4fbe;
+  --c-red:          #e13329;
+  --c-red-dark:     #b82820;
+  --c-gold:         #f1bd1e;
+  --c-gold-dark:    #c99e12;
   --c-white:        #FFFFFF;
   --c-surface:      #F0F4F9;
   --c-surface-alt:  #E8ECF3;
@@ -22,9 +22,9 @@
   --c-text-3:       #6B7280;
   --c-border:       #E2E8F0;
 
-  --f-display:      'Playfair Display', Georgia, serif;
-  --f-title:        'Barlow Condensed', 'Arial Narrow', sans-serif;
-  --f-sans:         'Plus Jakarta Sans', system-ui, sans-serif;
+  --f-display:      'Montserrat', sans-serif;
+  --f-title:        'Montserrat', sans-serif;
+  --f-sans:         'Inter', system-ui, sans-serif;
 
   --r-sm:   6px;
   --r-md:   12px;
@@ -34,7 +34,7 @@
   --s-sm:   0 1px 4px rgba(0,0,0,.07);
   --s-md:   0 4px 16px rgba(0,0,0,.09);
   --s-lg:   0 8px 40px rgba(0,0,0,.12);
-  --s-navy: 0 8px 32px rgba(27,47,110,.28);
+  --s-navy: 0 8px 32px rgba(27,17,100,.28);
 
   --ease:   cubic-bezier(0.4, 0, 0.2, 1);
   --nav-h:  72px;
