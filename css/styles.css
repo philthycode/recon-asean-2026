@@ -1433,6 +1433,10 @@ footer {
 }
 
 @media (max-width: 768px) {
+  .partners-logos { flex-direction: column; gap: 1.25rem; }
+  .partners-strip { flex-wrap: wrap; gap: 0.5rem 0.75rem; justify-content: center; }
+  .partner-logo { height: 36px !important; }
+
   .navbar__links { display: none; }
   .navbar__burger { display: flex; }
   .navbar__logo img { height: 38px; }
